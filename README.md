@@ -48,9 +48,6 @@ vue2.0 + elementUI 后台管理平台
 
 2018年2月25日：vue已升级至2.5.X，elementUI已升级至2.2，其他相关依赖也已升级。(beta2.0)  
 
-效果如下：![](https://images2018.cnblogs.com/blog/1023587/201802/1023587-20180226174230802-1767157998.png)
-
-
 2018年2月26日：增加打包分析webpack-bundle-analyzer；优化导出功能。(beta2.1)  
 
 2018年4月2日：修复ElementUI升级2.x引起的弹窗问题:[issue 10](https://github.com/suweiteng/vue2-management-platform/issues/10) 
